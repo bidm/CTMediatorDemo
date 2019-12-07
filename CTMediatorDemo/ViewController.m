@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // nothing
+    // why
     UIButton *btnA = [[UIButton alloc] initWithFrame:CGRectMake(100, 100, 100, 50)];
     [btnA setTitle:@"模块A" forState:UIControlStateNormal];
     [btnA setBackgroundColor:[UIColor redColor]];
